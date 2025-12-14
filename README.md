@@ -1,8 +1,8 @@
-<!-- ===== Glassmorphism Header ===== -->
+<!-- ================== HEADER ================== -->
 <h1 align="center">Hi 👋, I'm Sampatakumar V</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7DD3FC&size=22&center=true&vCenter=true&width=650&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7DD3FC&size=22&center=true&vCenter=true&width=700&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -11,22 +11,39 @@
 
 <br/>
 
-<!-- ===== Glass Card: About ===== -->
+<!-- ================== ABOUT CARD ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px;">
+<td style="
+  background: rgba(255,255,255,0.06);
+  backdrop-filter: blur(14px);
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow:
+    0 0 0 1px rgba(125,211,252,0.15),
+    0 0 30px rgba(56,189,248,0.25),
+    inset 0 0 20px rgba(125,211,252,0.08);
+">
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:0ea5e9&height=3" width="100%" />
 
-I build **responsive, scalable, and user-friendly web applications** with a strong focus on **clean UI and performance**.  
-I enjoy turning ideas into real-world products using modern web technologies.
+<h2 align="center">💫 About Me</h2>
 
-- 🔭 React & Full-Stack Web Apps  
-- 🌱 Advanced React & backend integration  
-- 👨‍💻 Firebase Authentication & MongoDB  
-- 💬 HTML, CSS, JavaScript, React  
-- 🎯 Goal: Software / Frontend / Full-Stack Developer  
-- 📫 **wlcmdevilworld@gmail.com**
+<p align="center">
+I build <b>responsive, scalable, and user-friendly web applications</b><br/>
+with a strong focus on <b>clean UI, performance & UX</b>.
+</p>
+
+<ul>
+  <li>🔭 React & Full-Stack Web Applications</li>
+  <li>🌱 Advanced React & Backend Integration</li>
+  <li>👨‍💻 Firebase Authentication & MongoDB</li>
+  <li>💬 HTML, CSS, JavaScript, React</li>
+  <li>🎯 Software / Frontend / Full-Stack Developer</li>
+  <li>📫 <b>wlcmdevilworld@gmail.com</b></li>
+</ul>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:38bdf8,100:22d3ee&height=3" width="100%" />
 
 </td>
 </tr>
@@ -34,12 +51,18 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Connect ===== -->
+<!-- ================== SOCIALS ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 16px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 18px;
+  text-align:center;
+">
 
-### 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <a href="https://www.instagram.com/sampatakumar_sv/">
   <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
@@ -57,12 +80,18 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Tech Stack ===== -->
+<!-- ================== TECH STACK ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 22px;
+  text-align:center;
+">
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,firebase,socketio,supabase,git,github,vercel,netlify,figma&theme=dark&perline=6" />
 
@@ -72,12 +101,18 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Projects ===== -->
+<!-- ================== PROJECTS ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 22px;
+  text-align:center;
+">
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 <a href="https://github.com/SAMPATAKUMAR/TO-DO-LIST">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=TO-DO-LIST&theme=dark&hide_border=true" />
@@ -94,17 +129,21 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Stats ===== -->
+<!-- ================== STATS ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 22px;
+  text-align:center;
+">
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SAMPATAKUMAR&show_icons=true&theme=dark&hide_border=true" />
-<br/>
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=dark&hide_border=true" />
-<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SAMPATAKUMAR&show_icons=true&theme=dark&hide_border=true" /><br/>
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=dark&hide_border=true" /><br/>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATAKUMAR&layout=compact&theme=dark&hide_border=true" />
 
 </td>
@@ -113,12 +152,18 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Snake ===== -->
+<!-- ================== SNAKE ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 22px;
+  text-align:center;
+">
 
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
@@ -128,10 +173,16 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/>
 
-<!-- ===== Glass Card: Quote ===== -->
+<!-- ================== QUOTE ================== -->
 <table align="center" width="100%">
 <tr>
-<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+<td style="
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 22px;
+  text-align:center;
+">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
@@ -145,5 +196,5 @@ I enjoy turning ideas into real-world products using modern web technologies.
   <img src="https://visitcount.itsvg.in/api?id=SAMPATAKUMAR&icon=5&color=6"/>
 </p>
 
-<!-- ===== Glass Wave Footer ===== -->
+<!-- ================== WAVE FOOTER ================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=120&section=footer"/>
