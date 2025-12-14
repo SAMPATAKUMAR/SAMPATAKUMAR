@@ -198,12 +198,6 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SAMPATAKUMAR/SAMPATAKUMAR/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-
 
 
 
