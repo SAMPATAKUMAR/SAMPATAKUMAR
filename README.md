@@ -196,5 +196,19 @@ with a strong focus on <b>clean UI, performance & UX</b>.
   <img src="https://visitcount.itsvg.in/api?id=SAMPATAKUMAR&icon=5&color=6"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAMPATAKUMAR/SAMPATAKUMAR/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
+
+
+
+
+
+
 <!-- ================== WAVE FOOTER ================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=120&section=footer"/>
