@@ -192,12 +192,12 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 
 <br/>
 
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SAMPATAKUMAR&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=SAMPATAKUMAR&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
 </p>
 
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=120&section=footer"/>
 
 
 
