@@ -40,7 +40,7 @@ with a strong focus on <b>clean UI, performance & UX</b>.
   <li>👨‍💻 Firebase Authentication & MongoDB</li>
   <li>💬 HTML, CSS, JavaScript, React</li>
   <li>🎯 Software / Frontend / Full-Stack Developer</li>
-  <li>📫 <b>wlcmdevilworld@gmail.com</b></li>
+  <li>📫 <b>mailto:wlcmdevilworld@gmail.com</b></li>
 </ul>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:38bdf8,100:22d3ee&height=3" width="100%" />
