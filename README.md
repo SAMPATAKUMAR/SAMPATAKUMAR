@@ -1,43 +1,15 @@
-<!-- ================== AVATAR (SYNCED WITH GITHUB) ================== -->
+<!-- ================== AVATAR (SYNCED WITH GITHUB PROFILE) ================== -->
 <p align="center">
-<svg width="190" height="190" viewBox="0 0 190 190" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="ringGradient" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#0ea5e9"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
-  </defs>
-
-  <circle
-    cx="95"
-    cy="95"
-    r="80"
-    fill="none"
-    stroke="url(#ringGradient)"
-    stroke-width="4"
-    stroke-dasharray="8 10">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 95 95"
-      to="360 95 95"
-      dur="6s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <clipPath id="clipCircle">
-    <circle cx="95" cy="95" r="68"/>
-  </clipPath>
-
-  <image
-    href="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
-    x="27"
-    y="27"
-    width="136"
-    height="136"
-    clip-path="url(#clipCircle)"/>
-</svg>
+  <img
+    src="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
+    width="160"
+    alt="Sampatakumar V"
+    style="
+      border-radius:500px;
+      border:3px solid #38bdf8;
+      box-shadow:0 0 25px rgba(56,189,248,0.6);
+    "
+  />
 </p>
 
 <!-- ================== HERO ================== -->
@@ -45,25 +17,28 @@
   Hi 👋, I'm <span style="color:#38bdf8;">Sampatakumar V</span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
+<p align="center" style="font-size:18px; color:#38bdf8;">
+  Clean UI | Scalable Apps | Always Learning & Building
 </p>
 
 <p align="center">
   🎓 Computer Science Student &nbsp;•&nbsp; 📍 Bengaluru, India
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=2" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=2"
+  width="100%"
+/>
 
 <!-- ================== PINNED ABOUT CARD ================== -->
 <table align="center" width="88%">
 <tr>
 <td align="center"
 style="
-background:rgba(255,255,255,0.045);
-border-radius:18px;
-padding:22px;
-border:1px solid rgba(56,189,248,0.25);
+  background:rgba(255,255,255,0.045);
+  border-radius:18px;
+  padding:22px;
+  border:1px solid rgba(56,189,248,0.25);
 ">
 
 <h3>🚀 Frontend / Full-Stack Developer</h3>
@@ -87,8 +62,8 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-I build <b>modern, responsive & scalable web applications</b><br/>
-with strong focus on <b>UI/UX, performance & clean architecture</b>.
+I build modern, responsive & scalable web applications<br/>
+with strong focus on UI/UX, performance & clean architecture.
 </p>
 
 <p align="center">
@@ -101,7 +76,10 @@ with strong focus on <b>UI/UX, performance & clean architecture</b>.
 📫 <b><a href="mailto:wlcmdevilworld@gmail.com">wlcmdevilworld@gmail.com</a></b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0ea5e9,100:020617&height=2" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0ea5e9,100:020617&height=2"
+  width="100%"
+/>
 
 <!-- ================== CONNECT ================== -->
 <h2 align="center">🌐 Connect With Me</h2>
@@ -138,7 +116,7 @@ with strong focus on <b>UI/UX, performance & clean architecture</b>.
 🔹 React • Firebase • MongoDB • Clean UI • Scalable Architecture
 </p>
 
-<!-- ================== STATS ================== -->
+<!-- ================== GITHUB STATS ================== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
