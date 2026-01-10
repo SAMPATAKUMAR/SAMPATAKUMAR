@@ -1,49 +1,82 @@
-<!-- ================== HEADER ================== -->
-<h1 align="center">Hi 👋, I'm Sampatakumar V</h1>
+<!-- ================== AVATAR ================== -->
+<p align="center">
+  <svg width="190" height="190" viewBox="0 0 190 190">
+    <defs>
+      <linearGradient id="ringGradient" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="50%" stop-color="#0ea5e9"/>
+        <stop offset="100%" stop-color="#38bdf8"/>
+      </linearGradient>
+    </defs>
+
+    <circle
+      cx="95"
+      cy="95"
+      r="80"
+      fill="none"
+      stroke="url(#ringGradient)"
+      stroke-width="4"
+      stroke-dasharray="8 10">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 95 95"
+        to="360 95 95"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <clipPath id="clipCircle">
+      <circle cx="95" cy="95" r="68"/>
+    </clipPath>
+
+    <image
+      href="https://i.ibb.co/mVnYBYb4/avatar.jpg"
+      x="27"
+      y="27"
+      width="136"
+      height="136"
+      clip-path="url(#clipCircle)"
+    />
+  </svg>
+</p>
+
+<!-- ================== HERO ================== -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#38bdf8;">Sampatakumar V</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7DD3FC&size=22&center=true&vCenter=true&width=700&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
   🎓 Computer Science Student &nbsp;•&nbsp; 📍 Bengaluru, India
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38bdf8,100:020617&height=2" width="100%" />
 
-<!-- ================== ABOUT CARD ================== -->
-<table align="center" width="100%">
+<!-- ================== PINNED ABOUT CARD ================== -->
+<table align="center" width="88%">
 <tr>
-<td style="
-  background: rgba(255,255,255,0.06);
-  backdrop-filter: blur(14px);
-  border-radius: 18px;
-  padding: 24px;
-  box-shadow:
-    0 0 0 1px rgba(125,211,252,0.15),
-    0 0 30px rgba(56,189,248,0.25),
-    inset 0 0 20px rgba(125,211,252,0.08);
+<td align="center"
+style="
+background:rgba(255,255,255,0.045);
+border-radius:18px;
+padding:22px;
+border:1px solid rgba(56,189,248,0.25);
 ">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:38bdf8,100:0ea5e9&height=3" width="100%" />
+<h3>🚀 Frontend / Full-Stack Developer</h3>
 
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-I build <b>responsive, scalable, and user-friendly web applications</b><br/>
+<p>
+I build <b>modern, responsive & scalable web applications</b><br/>
 with a strong focus on <b>clean UI, performance & UX</b>.
 </p>
 
-<ul>
-  <li>🔭 React & Full-Stack Web Applications</li>
-  <li>🌱 Advanced React & Backend Integration</li>
-  <li>👨‍💻 Firebase Authentication & MongoDB</li>
-  <li>💬 HTML, CSS, JavaScript, React</li>
-  <li>🎯 Software / Frontend / Full-Stack Developer</li>
-  <li>📫 <b><a href="mailto:wlcmdevilworld@gmail.com">wlcmdevilworld@gmail.com</a></b></li>
-</ul>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:38bdf8,100:22d3ee&height=3" width="100%" />
+<p>
+⚛️ React &nbsp;•&nbsp; 🔥 Firebase &nbsp;•&nbsp; 🌐 Full-Stack Apps
+</p>
 
 </td>
 </tr>
@@ -51,160 +84,85 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 
 <br/>
 
-<!-- ================== SOCIALS ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 18px;
-  text-align:center;
-">
+<!-- ================== ABOUT ================== -->
+<h2 align="center">💫 About Me</h2>
 
-<h2>🌐 Connect With Me</h2>
+<p align="center">
+I build <b>modern, responsive & scalable web applications</b><br/>
+with strong focus on <b>UI/UX, performance & clean architecture</b>.
+</p>
 
-<a href="https://www.instagram.com/sampatakumar_sv/">
-  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-<a href="https://www.linkedin.com/in/sampatakumar-sv/">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:wlcmdevilworld@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=D14836"/>
-</a>
+<p align="center">
+🔭 React & Full-Stack Projects &nbsp;•&nbsp;
+🌱 Advanced React Patterns & Backend APIs &nbsp;•&nbsp;
+🎯 Frontend / Full-Stack Developer
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+📫 <b><a href="mailto:wlcmdevilworld@gmail.com">wlcmdevilworld@gmail.com</a></b>
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0ea5e9,100:020617&height=2" width="100%" />
 
-<!-- ================== TECH STACK ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 22px;
-  text-align:center;
-">
+<!-- ================== CONNECT ================== -->
+<h2 align="center">🌐 Connect With Me</h2>
 
-<h2>💻 Tech Stack</h2>
+<p align="center">
+  <a href="https://www.instagram.com/sampatakumar_sv/">
+    <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sampatakumar-sv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:wlcmdevilworld@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,firebase,socketio,supabase,git,github,vercel,netlify,figma&theme=dark&perline=6" />
+<p align="center">
+  <a href="https://sampatakumar.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-020617?style=for-the-badge&logo=firefox&logoColor=38bdf8" />
+  </a>
+</p>
 
-</td>
-</tr>
-</table>
+<!-- ================== TECH ================== -->
+<h2 align="center">💻 Tech Stack</h2>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,firebase,supabase,git,github,vercel,netlify,figma&theme=dark&perline=6" />
+</p>
 
 <!-- ================== PROJECTS ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 22px;
-  text-align:center;
-">
+<h2 align="center">🚀 Featured Projects</h2>
 
-<h2>🚀 Featured Projects</h2>
-
-<a href="https://github.com/SAMPATAKUMAR/TO-DO-LIST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=TO-DO-LIST&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/SAMPATAKUMAR/Full-stack-event">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=Full-stack-event&theme=dark&hide_border=true" />
-</a>
-
-<p>🔹 React • Firebase • MongoDB • Clean UI</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+🔹 React • Firebase • MongoDB • Clean UI • Scalable Architecture
+</p>
 
 <!-- ================== STATS ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 22px;
-  text-align:center;
-">
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2>📊 GitHub Stats</h2>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SAMPATAKUMAR&show_icons=true&theme=dark&hide_border=true" /><br/>
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=dark&hide_border=true" /><br/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATAKUMAR&layout=compact&theme=dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- ================== SNAKE ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 22px;
-  text-align:center;
-">
+<h2 align="center">🐍 Contribution Activity</h2>
 
-<h2>🐍 Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <!-- ================== QUOTE ================== -->
-<table align="center" width="100%">
-<tr>
-<td style="
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 22px;
-  text-align:center;
-">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAMPATAKUMAR&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
 </p>
 
-
-
-
-
-
-<!-- ================== WAVE FOOTER ================== -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:020617&height=130&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:38bdf8,100:020617&height=130&section=footer"
 />
-
