@@ -59,6 +59,14 @@ You can find my work across my GitHub repositories.
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=sampatakumar&theme=material&format=png" alt="GitHub Achievements" width="400">
+</div>
+
+---
+
 ## Connect With Me
 
 - Portfolio: https://sampatakumar.github.io/
